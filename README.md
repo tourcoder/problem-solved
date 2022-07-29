@@ -6,7 +6,7 @@ When using some software, I will meet some "problems", but these problems may so
 
 ### CONTENT
 
-All in [issues](https://github.com/huabin/problem-solved/issues)
+All in [issues](https://github.com/tourcoder/problem-solved/issues)
 
 ### License
 
