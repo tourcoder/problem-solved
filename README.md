@@ -1,4 +1,6 @@
-# Problem Solved
+# [Discontinued]Problem Solved
+
+Moved to [tourcoder/fsfg](https://github.com/tourcoder/fsfg/issues?q=is%3Aissue+is%3Aclosed+label%3Atricks).
 
 ### Why
 
